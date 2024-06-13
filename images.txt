@@ -1,2 +1,2 @@
-registry.k8s.io/ingress-nginx/controller:v1.10.1
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+docker.io/library/busybox:latest 
+docker.io/library/busybox:1.28 
