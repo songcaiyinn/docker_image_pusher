@@ -1,2 +1,1 @@
-docker.io/library/busybox:latest 
-docker.io/library/busybox:1.28 
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
