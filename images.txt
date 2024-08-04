@@ -1,1 +1,2 @@
-redis:5.0.14
+nacos-server:v2.0.4
+sentinel:1.8.6
