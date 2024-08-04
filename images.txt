@@ -1,1 +1,1 @@
-sentinel:1.8.6
+nacos/nacos-server:v2.0.4
