@@ -1,1 +1,1 @@
-ladex/sentinel-dashboard:1.8.6
+bladex/sentinel-dashboard:1.8.6
